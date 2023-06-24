@@ -1,0 +1,25 @@
+.headerWrapper{
+  height: 10vh;
+  background-color: rgb(77, 73, 73);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+  }
+  .headerWrapper a{
+    padding: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  .headerWrapper a:hover{
+    text-decoration: underline;
+  }
+  .footerWrapper{
+    height: 10vh;
+    background-color: #ccc;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
